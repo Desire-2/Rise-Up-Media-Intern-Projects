@@ -12,7 +12,7 @@
 2. **HTML Structure**:  
    - Build sections:  
      - Hero banner with Rise Up Media’s motto: *"Empowering Innovation, Transforming Ideas."*  
-     - Skills grid (include courses from Res Up Media’s training center, e.g., "Filmmaking," "ICT Skills").  
+     - Skills grid (include courses from Rise Up Media’s training center, e.g., "Filmmaking," "ICT Skills").  
      - Projects section (placeholder for future internships).  
    - Add company logo to the header.  
 3. **CSS Styling**:  
